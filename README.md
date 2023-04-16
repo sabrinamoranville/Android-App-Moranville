@@ -24,3 +24,8 @@ TAB 3: Add filter.
 	Category, model number, lifespan, installation date. 
 TAB 4: Remove filter.
 	Select filter to remove.
+
+
+Week 5 update
+Working on FriendlyFilters application. I am currently having issues with the toolbar. I am still becoming familiar with Android Studio but I am learning more every day! 
+Plan to continue working on my app and work out the bugs. 
