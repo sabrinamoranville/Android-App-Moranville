@@ -24,3 +24,8 @@ TAB 3: Add filter.
 	Category, model number, lifespan, installation date. 
 TAB 4: Remove filter.
 	Select filter to remove.
+	
+	
+	
+	week 5 
+	working on app. having issues with the toolbar. plan to continue working on it and fix the errors. 
